@@ -1,3 +1,8 @@
+# RSS Job Feed 📡
+
+[![Last Commit](https://img.shields.io/github/last-commit/cmaurice25/rss-job-feed)](https://github.com/cmaurice25/rss-job-feed)
+[![License](https://img.shields.io/github/license/cmaurice25/rss-job-feed)](LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/cmaurice25/rss-job-feed)](https://github.com/cmaurice25/rss-job-feed)
 # RSS Job Feed Summarizer
 
 This project fetches the latest job listings from [We Work Remotely](https://weworkremotely.com/), summarizes them using Groq's LLaMA 3 model, and writes the summaries to a timestamped Google Doc inside a Drive folder.
